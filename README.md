@@ -57,3 +57,7 @@ https://drive.google.com/file/d/1h_2x4oNL8rAP-C1QXnOZjYx5_r0N7R2N
 
 Fine-tuned Model:
 https://drive.google.com/file/d/1ssoRsDVrYKd7qXjRd46u2X3sjYall00X
+
+## Demo
+
+![Demo](demo.gif)
