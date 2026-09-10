@@ -48,6 +48,7 @@ python main.py --function evaluate --asl_label data/How2Sign/labels.test --asl_d
 ## Model
 
 The checkpoints are available for download.
+
 Tokenization:
 https://drive.google.com/file/d/1ZeHSGznXd_Xb285zZjNWuliMYae5EJbu
 https://drive.google.com/file/d/1GYQNXTpok0bGikVGVv22z7EM-MksYpK-
